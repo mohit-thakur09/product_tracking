@@ -1,0 +1,31 @@
+id,sku,barcode,title,shelf
+1,B1042-1,7.3E+11,Ceramic Mug,A-01
+2,B1042-2,7.3E+11,Denim Jacket,A-02
+3,B1042-3,7.3E+11,Table Lamp,A-03
+4,B1042-4,7.3E+11,Wool Scarf,B-01
+5,B1042-5,7.3E+11,Picture Frame,B-02
+6,B1042-6,7.3E+11,Leather Belt,B-03
+7,B1042-7,7.3E+11,Glass Vase,C-01
+8,B1042-8,7.3E+11,Hiking Boots,C-02
+9,B1042-9,7.3E+11,Board Game,D-01
+10,B1042-10,7.3E+11,Desk Clock,D-02
+11,B1042-11,7.3E+11,Cotton Hoodie,A-01
+12,B1042-12,7.3E+11,Cookbook,A-02
+13,B1042-13,7.3E+11,Brass Candlestick,A-03
+14,B1042-14,7.3E+11,Throw Pillow,B-01
+15,B1042-15,7.3E+11,Sunglasses,B-02
+16,B1042-16,7.3E+11,Vinyl Record,B-03
+17,B1042-17,7.3E+11,Teapot,C-01
+18,B1042-18,7.3E+11,Backpack,C-02
+19,B1042-19,7.3E+11,Watercolor Print,D-01
+20,B1042-20,7.3E+11,Bluetooth Speaker,D-02
+21,B1077-1,7.3E+11,Silk Tie,A-01
+22,B1077-2,7.3E+11,Cast Iron Pan,A-02
+23,B1077-3,7.3E+11,Jigsaw Puzzle,A-03
+24,B1077-4,7.3E+11,Wall Mirror,B-01
+25,B1077-5,7.3E+11,Rain Jacket,B-02
+26,B1077-6,7.3E+11,Fountain Pen,B-03
+27,B1077-7,7.3E+11,Bookends,C-01
+28,B1077-8,7.3E+11,Yoga Mat,C-02
+29,B1077-9,7.3E+11,Wind Chime,D-01
+30,B1077-10,7.3E+11,Lunch Box,D-02
